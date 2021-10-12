@@ -1,0 +1,17 @@
+body {
+  background-color: #d1e8e4;
+}
+.headerul {
+  display: flex;
+  list-style: none;
+}
+.headerli {
+  margin: auto;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 50%;
+}
